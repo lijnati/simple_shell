@@ -1,1 +1,2 @@
-# simple_shell - Dual Project
+Simple Shell Team Project
+
